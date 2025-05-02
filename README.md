@@ -1,6 +1,8 @@
 # Segmentation and Tumor Detection in Medical Imaging
 
-This project implements a three‑stage Python pipeline for nuclei segmentation and tumor detection in high‑resolution histopathology images. All steps rely on classical computer‑vision and machine‑learning libraries, without using deep‑learning models.
+This project implements a three‑stage Python pipeline for nuclei segmentation and tumor detection in high‑resolution histopathology images. Most steps rely on classical computer‑vision and machine‑learning libraries, without using deep‑learning models.
+
+Came in first in accuracy, quality of code and presentation.
 
 ---
 
